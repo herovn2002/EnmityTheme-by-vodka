@@ -280,9 +280,9 @@
      },
     
     "background": {
-        "blur": 0.9,
+        "blur": 0.5,
         "url": "https://raw.githubusercontent.com/herovn2002/AMOLED-custom-BG_theme/refs/heads/main/sigillum_K_card.jpeg",
-        "alpha": 0.1
+        "alpha": 0.5
         },
         "plus":{
        "version":"0",
